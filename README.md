@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0231-power-of-two) |
+| [3536-maximum-product-of-two-digits](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
