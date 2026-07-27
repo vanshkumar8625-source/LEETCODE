@@ -27,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -37,6 +38,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
