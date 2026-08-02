@@ -17,6 +17,7 @@
 | [0231-power-of-two](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
@@ -35,6 +36,7 @@
 | [0204-count-primes](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
@@ -75,4 +77,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0001-two-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
