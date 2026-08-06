@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0204-count-primes](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0287-find-the-duplicate-number) |
@@ -45,6 +46,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
@@ -85,9 +87,18 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0877-stone-game](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0877-stone-game) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
