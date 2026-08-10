@@ -17,6 +17,7 @@
 | [0231-power-of-two](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -26,11 +27,13 @@
 | ------- |
 | [0231-power-of-two](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0342-power-of-four) |
 ## Array
 |  |
 | ------- |
