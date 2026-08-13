@@ -46,6 +46,7 @@
 | [0287-find-the-duplicate-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -63,6 +64,7 @@
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
