@@ -13,6 +13,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0263-ugly-number) |
@@ -44,6 +45,7 @@
 | [0001-two-sum](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0118-pascals-triangle) |
@@ -166,4 +168,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
