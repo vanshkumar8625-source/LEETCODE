@@ -48,6 +48,7 @@
 | [0015-3sum](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0118-pascals-triangle) |
@@ -81,6 +82,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0287-find-the-duplicate-number) |
@@ -174,6 +176,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 ## Greedy
 |  |
 | ------- |
