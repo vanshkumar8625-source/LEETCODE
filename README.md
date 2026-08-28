@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0263-ugly-number) |
@@ -56,6 +57,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0287-find-the-duplicate-number) |
@@ -78,6 +80,7 @@
 | [0042-trapping-rain-water](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
