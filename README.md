@@ -53,6 +53,7 @@
 | [0027-remove-element](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0088-merge-sorted-array) |
@@ -185,9 +186,14 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 ## Greedy
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
