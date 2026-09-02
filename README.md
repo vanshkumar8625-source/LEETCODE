@@ -33,6 +33,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1470-shuffle-the-array) |
 | [3731-find-missing-elements](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
