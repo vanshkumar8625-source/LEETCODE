@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0796-rotate-string](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0796-rotate-string) |
 | [1154-day-of-the-year](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1154-day-of-the-year) |
 | [1903-largest-odd-number-in-string](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
@@ -136,6 +137,7 @@
 | [0001-two-sum](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0645-set-mismatch) |
