@@ -25,6 +25,7 @@
 | [0268-missing-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0877-stone-game) |
 | [1154-day-of-the-year](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1154-day-of-the-year) |
@@ -100,6 +101,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0704-binary-search) |
 ## Sorting
 |  |
