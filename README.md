@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0042-trapping-rain-water) |
@@ -85,6 +86,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0042-trapping-rain-water) |
@@ -200,6 +202,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
 |  |
