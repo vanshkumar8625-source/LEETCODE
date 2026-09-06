@@ -27,6 +27,7 @@
 | [0342-power-of-four](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0877-stone-game) |
 | [1154-day-of-the-year](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1154-day-of-the-year) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
