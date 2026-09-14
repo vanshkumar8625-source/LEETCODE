@@ -84,6 +84,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1470-shuffle-the-array) |
+| [1672-richest-customer-wealth](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [3731-find-missing-elements](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -203,6 +204,7 @@
 | [0048-rotate-image](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [1672-richest-customer-wealth](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1672-richest-customer-wealth) |
 ## Greedy
 |  |
 | ------- |
