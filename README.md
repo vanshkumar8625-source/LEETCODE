@@ -79,6 +79,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0905-sort-array-by-parity) |
@@ -113,6 +114,7 @@
 | [0287-find-the-duplicate-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
 | ------- |
@@ -233,4 +235,8 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
