@@ -9,15 +9,35 @@
  * }
  */
 class Solution {
-    public ListNode reverseList(ListNode head) {
-       ListNode f = null;
-        ListNode s = head;
-        while(s!=null){
-            ListNode n = s.next;
-            s.next=f;
-            f=s;
-            s=n;
+
+    int len(ListNode head){
+        ListNode temp = head;
+
+        int c = 0;
+        while(temp != null){
+            temp = temp.next;
+            c++;
         }
-        return f;
+        return c;
+    }
+    public ListNode reverseList(ListNode head) {
+        int n = len(head);
+
+        int arr[] = new int[n];
+        ListNode temp = head;
+        int i = 0;
+        while(temp != null){
+            arr[i] = temp.val;
+            temp = temp.next;
+            i++;
+        }
+        i = n - 1;
+        temp = head;
+        while(i >= 0){
+            temp.val = arr[i];
+            i--;
+            temp = temp.next;
+        }
+        return head;
     }
 }
