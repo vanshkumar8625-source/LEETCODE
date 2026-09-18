@@ -102,6 +102,7 @@
 | [0088-merge-sorted-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0876-middle-of-the-linked-list](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -244,4 +245,5 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
