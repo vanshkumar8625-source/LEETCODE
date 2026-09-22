@@ -9,22 +9,13 @@
  * }
  */
 class Solution {
-    int len(ListNode head) {
-        ListNode temp = head;
-        int c = 0;
-        while (temp != null) {
-            temp = temp.next;
-            c++;
-        }
-        return c;
-    }
     public ListNode middleNode(ListNode head) {
-        int h = len(head);
-        int m = h / 2;
-        ListNode temp = head;
-        for (int i = 0; i < m; i++) {
-            temp = temp.next;
+        ListNode slow = head;
+        ListNode fast = head;
+        while(fast!= null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
         }
-        return temp;
+        return slow;
     }
 }
