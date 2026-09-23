@@ -95,6 +95,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1672-richest-customer-wealth) |
+| [3467-transform-array-by-parity](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -139,6 +140,7 @@
 | [0905-sort-array-by-parity](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3467-transform-array-by-parity](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3731-find-missing-elements) |
@@ -150,6 +152,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0169-majority-element) |
+| [3467-transform-array-by-parity](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Enumeration
 |  |
