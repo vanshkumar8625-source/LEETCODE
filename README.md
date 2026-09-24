@@ -37,6 +37,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
@@ -97,6 +98,7 @@
 | [1470-shuffle-the-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [3467-transform-array-by-parity](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3467-transform-array-by-parity) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
