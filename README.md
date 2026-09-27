@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0204-count-primes) |
