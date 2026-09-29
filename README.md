@@ -20,6 +20,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0048-rotate-image) |
@@ -56,6 +57,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0231-power-of-two) |
@@ -276,6 +278,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0148-sort-list) |
