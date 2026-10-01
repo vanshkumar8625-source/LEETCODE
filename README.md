@@ -6,6 +6,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0242-valid-anagram) |
@@ -211,6 +212,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -315,5 +317,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
