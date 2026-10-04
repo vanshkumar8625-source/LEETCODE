@@ -14,6 +14,7 @@
 | [1154-day-of-the-year](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1154-day-of-the-year) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String Matching
@@ -199,6 +200,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0645-set-mismatch) |
 | [1512-number-of-good-pairs](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3731-find-missing-elements](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
