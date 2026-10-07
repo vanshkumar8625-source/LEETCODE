@@ -113,6 +113,7 @@
 | [0905-sort-array-by-parity](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1512-number-of-good-pairs) |
@@ -270,6 +271,7 @@
 | [0054-spiral-matrix](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0867-transpose-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1672-richest-customer-wealth) |
 ## Greedy
 |  |
