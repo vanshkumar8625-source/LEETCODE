@@ -99,6 +99,7 @@
 | [0268-missing-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
@@ -203,6 +204,7 @@
 | [0205-isomorphic-strings](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0645-set-mismatch) |
 | [1512-number-of-good-pairs](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1512-number-of-good-pairs) |
@@ -226,6 +228,7 @@
 | [0020-valid-parentheses](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -233,6 +236,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0496-next-greater-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
