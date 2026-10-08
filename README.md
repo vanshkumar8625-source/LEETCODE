@@ -105,6 +105,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0875-koko-eating-bananas) |
@@ -230,6 +231,7 @@
 | [0042-trapping-rain-water](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -238,6 +240,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0739-daily-temperatures) |
 ## Prefix Sum
 |  |
 | ------- |
