@@ -238,6 +238,7 @@
 | [0234-palindrome-linked-list](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -247,6 +248,7 @@
 | [0042-trapping-rain-water](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0901-online-stock-span) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -373,4 +375,12 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0214-shortest-palindrome) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
