@@ -127,6 +127,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -271,6 +272,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
 | ------- |
