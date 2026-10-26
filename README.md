@@ -8,6 +8,7 @@
 | [0012-integer-to-roman](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0242-valid-anagram) |
@@ -150,6 +151,7 @@
 | [0125-valid-palindrome](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0287-find-the-duplicate-number) |
