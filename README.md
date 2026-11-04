@@ -112,6 +112,7 @@
 | [0204-count-primes](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -197,6 +198,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0274-h-index) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0645-set-mismatch) |
@@ -217,6 +219,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0274-h-index) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [3467-transform-array-by-parity](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3467-transform-array-by-parity) |
