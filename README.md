@@ -133,6 +133,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1470-shuffle-the-array) |
@@ -167,6 +168,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -184,6 +186,7 @@
 | [0704-binary-search](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0875-koko-eating-bananas) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
@@ -204,6 +207,7 @@
 | [0645-set-mismatch](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3467-transform-array-by-parity](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3467-transform-array-by-parity) |
