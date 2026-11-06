@@ -111,6 +111,7 @@
 | [0189-rotate-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0287-find-the-duplicate-number) |
@@ -246,6 +247,7 @@
 | [0141-linked-list-cycle](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0290-word-pattern) |
@@ -353,6 +355,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Ternary Search
