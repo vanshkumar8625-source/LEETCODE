@@ -22,6 +22,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String Matching
 |  |
@@ -354,6 +355,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0867-transpose-matrix) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Primality Test
 |  |
 | ------- |
