@@ -23,6 +23,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String Matching
 |  |
