@@ -14,6 +14,7 @@
 | [0214-shortest-palindrome](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0290-word-pattern) |
+| [0771-jewels-and-stones](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1154-day-of-the-year](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1154-day-of-the-year) |
@@ -278,6 +279,7 @@
 | [0496-next-greater-element-i](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0645-set-mismatch) |
+| [0771-jewels-and-stones](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
