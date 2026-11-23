@@ -58,6 +58,7 @@
 | [1154-day-of-the-year](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1154-day-of-the-year) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1512-number-of-good-pairs](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -147,6 +148,7 @@
 | [0912-sort-an-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -323,6 +325,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
@@ -462,10 +465,12 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 ## Quickselect
 |  |
 | ------- |
