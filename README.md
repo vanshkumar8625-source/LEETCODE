@@ -277,6 +277,7 @@
 | [0012-integer-to-roman](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0128-longest-consecutive-sequence](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0219-contains-duplicate-ii) |
@@ -415,6 +416,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0234-palindrome-linked-list) |
@@ -473,6 +475,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0146-lru-cache) |
 | [0901-online-stock-span](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0901-online-stock-span) |
 | [1352-product-of-the-last-k-numbers](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
@@ -489,4 +492,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0070-climbing-stairs) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
