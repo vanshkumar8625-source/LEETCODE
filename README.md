@@ -63,6 +63,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3360-stone-removal-game](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3536-maximum-product-of-two-digits](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -382,6 +383,7 @@
 | [0054-spiral-matrix](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0867-transpose-matrix) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/3360-stone-removal-game) |
 ## Primality Test
 |  |
 | ------- |
