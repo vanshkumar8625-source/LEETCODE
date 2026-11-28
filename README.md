@@ -133,6 +133,7 @@
 | [0274-h-index](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -208,6 +209,7 @@
 | [0268-missing-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0367-valid-perfect-square) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -229,6 +231,7 @@
 | [0268-missing-number](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -248,6 +251,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
@@ -370,6 +374,7 @@
 | [0048-rotate-image](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0867-transpose-matrix](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/vanshkumar8625-source/LEETCODE/tree/master/1672-richest-customer-wealth) |
